@@ -1,5 +1,8 @@
+/*****************************TAG SELECTORS******************************/
+
+
 body {
-  background-color: #ebfffa;
+    background-color: #ebfffa;
 }
 
 ul {
@@ -17,15 +20,30 @@ border-width: 7px;
 width: 5%;
 }
 
-img {
-  height: 300px;
+img:hover {
+  width: 300px;
+  background-color: #7d5e2a;
 }
 
-h1 {
+h1:hover{
   color: #66bfbf;
   font-style: italic;
 }
-h3 {
+h3:hover {
   color: #66bfbf;
   font-style: italic;
+}
+
+a:hover {
+font-style: italic;
+}
+
+tr {
+  font-style: italic;
+}
+
+/**************************CLASS SELECTORS**********************************/
+
+.circular {
+  border-radius: 100%;
 }
