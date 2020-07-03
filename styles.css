@@ -14,8 +14,6 @@ ul {
     list-style-position: inside;
 }
 
-
-
 hr {
 border-style: none;
 border-top-style: dotted;
@@ -31,14 +29,6 @@ h1 {
     margin-top: 0;
     text_align: center;
 }
-
-body {
-    margin: 0px;
-    text-align: center;
-    font-family: 'Fredericka the Great', cursive;
-    
-}
-
 
 h1 {
     font-size: 75px;
