@@ -68,15 +68,12 @@ h1 {
 
 .top-cloud {
     position: absolute;
-    right: 300px;
+    right: 200px;
     top: 50px;
-    background-color: #709fb0;
-}
 }
 
 .bottom-cloud {
     position: absolute;
-    left: 300px;
+    left: 200px;
     bottom: 300px;
-    background-color: #709fb0;
 }
